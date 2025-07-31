@@ -1,0 +1,18 @@
+
+@article{Hawking1976,
+    author = {Hawking, S. W.},
+    title = {Breakdown of Predictability in Gravitational Collapse},
+    journal = {Phys. Rev. D},
+    volume = {14},
+    pages = {2460},
+    year = {1976}
+}
+
+@article{Bekenstein1973,
+    author = {Bekenstein, J. D.},
+    title = {Black Holes and Entropy},
+    journal = {Phys. Rev. D},
+    volume = {7},
+    pages = {2333},
+    year = {1973}
+}
