@@ -21,8 +21,7 @@ Black holes **rupture catastrophically** when their information density hits the
 
 ## 👨‍🔬 Author  
 **Edmund James Hall**  
-- 📧 Email: [your@email.com](mailto:your@email.com)  
-- 🔗 ORCID: [0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000) *(replace with yours)*  
+- 📧 Email: halleddie@hotmail.com
 - 🌐 *"The universe reboots when black holes overflow."*  
 
 ## 📜 How to Cite  
@@ -31,5 +30,5 @@ Black holes **rupture catastrophically** when their information density hits the
   author = {Hall, Edmund James},
   title = {HPRH: Planck-Scale Black Hole Rupture as Cosmic Rebirth Mechanism},
   year = {2024},
-  url = {https://github.com/YourUsername/HPRH}
+  url = {https://github.com/Edmund-James-Hall/HPRH}
 }
